@@ -1,0 +1,26 @@
+{
+  "name": "game_aviliability_checker",
+  "version": "0.0.1",
+  "description": "definetly best game prices parser",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An9rewRyan/golang_games_prices_parser.git"
+  },
+  "keywords": [
+    "node",
+    "golang",
+    "parser",
+    "games",
+    "prices"
+  ],
+  "author": "Andrew Ryan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/An9rewRyan/golang_games_prices_parser/issues"
+  },
+  "homepage": "https://github.com/An9rewRyan/golang_games_prices_parser#readme"
+}
