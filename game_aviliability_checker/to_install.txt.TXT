@@ -1,0 +1,5 @@
+FOR SELENIUM:
+    xvfb
+    default-jre
+    default-jdk (probably not necessary)
+    firefox
