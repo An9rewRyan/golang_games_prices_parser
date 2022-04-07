@@ -22,7 +22,7 @@
 ***
 
 **Other projects using this parser:**
- - **[Gamers Gazette](https://github.com/authoraytee/gamers_gazette)** - web platform based on this parser
+ - **[Gamers Gazette](https://github.com/An9rewRyan/Gamers-Gazette)** - web platform based on this parser
  - **[Golang game news_parser](https://github.com/An9rewRyan/golang_game_news_parser)** - game parser which patterns were used here (also part of GG)
 
 ---
